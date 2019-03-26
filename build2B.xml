@@ -1,0 +1,45 @@
+<project>
+	<property name="src.dir" value="src" />
+	<property name="build.dir" value="build" />
+	<property name="test.dir" value="test" />
+	<property name="junit.file" value="junit.jar" />
+	<property name="hamcrest.file" value="hamcrest-core.jar" />
+
+	<target name="clean">
+		<delete dir="${build.dir}" />
+	</target>
+
+	<target name="compile" depends="clean">
+		<mkdir dir="${build.dir}" />
+		<javac srcdir="${src.dir}" destdir="${build.dir}" />
+	</target>
+
+	<target name="jar" depends="compile">
+		<mkdir dir="jar" />
+		<jar destfile="jar/Assignment2B.jar" basedir="${build.dir}">
+			<manifest>
+				<attribute name="Main-Class" value="driver.JShell" />
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="junit" depends="compile">
+		<junit printsummary="yes" haltonfailure="no">
+			<classpath>
+				<pathelement location="${build.dir}" />
+				<pathelement location="${junit.file}" />
+				<pathelement location="${hamcrest.file}" />
+			</classpath>
+			<batchtest>
+				<fileset dir="${test.dir}">
+					<include name="**/*Test*" />
+				</fileset>
+			</batchtest>
+			<formatter type="brief" usefile="false" />
+		</junit>
+	</target>
+
+	<target name="run">
+		<java jar="build/jar/Assignment2B.jar" fork="true" />
+	</target>
+</project>

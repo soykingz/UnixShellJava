@@ -1,0 +1,32 @@
+class name: CommandInitializer
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+Check if input is valid command
+Construct valid command
+Get constructed command 
+
+Collaborators:
+Command
+Cat
+Cd
+Cp
+Curl
+Echo
+Find
+History
+HistoryRecallExecute
+Ls
+Man
+Mkdir
+Mv
+Popd
+Pushd
+Pwd
+Tree
+FileSystem
+IoHandler
+UserInputHistory
+CommandInstantiationException
+InvalidCommandException

@@ -1,0 +1,9 @@
+Class name: Curl
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+Get a plain text file at a valid URL and add it to the current working directory.
+
+Collaborators:
+FileSystem

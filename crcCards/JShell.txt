@@ -1,0 +1,13 @@
+Class name: JShell
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+Initiallize file system
+Initiallize io handler
+Run shell on file system with io handler
+
+Collaborators:
+Shell
+FileSystem
+IoHandler

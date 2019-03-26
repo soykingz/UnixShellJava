@@ -1,0 +1,48 @@
+// Sprint 2 Backlog
+June 22 to June 28
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a) User needs to have a shell running with a empty file system when user runs JShell. (From Sprint 1)
+    1. (CRC Cards) Review CRC cards for new additional requirements.
+	Assigned to: Everyone
+    2. Design the underline data structure of FileSystem
+	Assigned to: jinze1, seyedayd
+    3. Implement FileSystem Methods.
+    Assigned to: jinze1, seyedayd
+    4. Test FileSystem on its own.
+	Assigned to: jinze1, seyedayd
+
+b) As a user, I need to be able to run a shell that repeatedly prints a prompt and executes my input on a file system.
+	1. Handle input and output for shell package files; implement IoHandler. (From Sprint 1)
+	Assigned to: liangho2, jinze1
+	2. Refactor initialization of commands according to FileSystem.
+	Assigned to: liangho2
+	3. Assess shell's function in coordination with file system.
+	Assigned to: liangho2, jinze1, seyedayd
+
+c) As a user, I want to be able to seek help for any valid command.
+	1.(man) Implement man class and methods
+		Assigned to: vezocluc
+
+d) As a user, I want to be able to see the current directory I'm working in.
+	1.(pwd) Implement class so it returns the full path of the current directory
+		Assigned to: vezocluc
+
+e) As a user, I need to be able to see contents of a directory at a given path or the current working directory.
+	1.(Ls) Design and implement Ls class
+		Assigned to: vezocluc
+	2.(Ls) Print files/folders of the current directory
+		Assigned to: vezocluc
+
+f) As a user, I want to be able to change the current working directory.
+	1. Implement cd.
+	Assigned to: liangho2
+
+g) As a user, I need to be able to create a directory. 
+	1. Implement mkdir. (From Sprint 1)
+	Assigned to: seyedayd
+
+h) As a user, I want to be able to have my own input displayed back to me.
+	1. Implement basic echo functionality.
+	Assigned to: liangho2

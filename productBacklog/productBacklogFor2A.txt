@@ -1,0 +1,18 @@
+User needs to have a shell running with a empty file system when user runs JShell                                                5days
+As a user, I need to be able to run a shell that repeatedly prints a prompt and executes my input on a file system.              1day
+As a user, I need to be able to see contents of a directory at a given path or the current working directory.                  0.5day
+As a user, I need to be able to create a directory.                                                                            0.5day
+As a user, I want to be able to change the current working directory.                                                          0.5day
+As a user, I want to be able to see any number of recent commands that were executed in the shell.                             0.5day
+As a user, I want relevant error messages to be displayed if I give invalid input.                                               1week
+As a user, I should be able to exit JShell.                                                                                    0.5day
+As a user, I want to be able to see the current directory I'm working in.                                                        1day
+As a user, I want to be able to see the contents of any number of files displayed in the shell.                                  3days
+As a user, I want to be able to overwrite or append to any file.                                                                 5days
+As a user, I want to be able to have my own input displayed back to me.                                                          1day
+As a user, I want to be able to seek help for any valid command.                                                                 1week
+As a user, I want to save my current working directory to access later.                                                          2days
+As a user, I want to be able to return to my saved working directory.                                                            2days
+As a user, I want to be able to display the entire file system as a tree                                                         3days
+As a user, I want to be able to search for a file of a specific type and name in a directory                                     3days
+As a user, I want to be able search multiple directories within the same command                                                 3days

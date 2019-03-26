@@ -1,0 +1,9 @@
+lass name: Mkdir
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+make a directory in FileSystem
+
+Collaborators:
+FileSystem

@@ -1,0 +1,7 @@
+Class name: NodeAlreadyExistException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+to be thrown when trying to add node to a path
+that already exist a node with the same name

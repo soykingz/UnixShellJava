@@ -1,0 +1,14 @@
+What did I do last time?
+	- Modified FileSystem to follow singleton design
+	- Added exceptions in FileSystem
+	- Discussed with liangho2 for an updated design for Shell, commands (using reflection), and JUnit tests
+
+What do I plan to do now?
+	- Finish adding Exceptions in Directory
+	- Update Directory documentations
+	- Create FileSystem Interface
+	- Update Existing commands, work on new command if possible
+	- JUnit test on commands and FileSystem
+
+Am I blocked on anything?
+	- none

@@ -1,0 +1,12 @@
+What did I do last time?
+	- Modified and completed Directories class
+	- Modified and completed FileSystem class
+	- Added and changed some of the test cases for the two classes above
+
+What do I plan to do now?
+	- Test that it runs with other classes when called
+	- help out my teammates with getting a working demo up for fridays deadline
+
+Am I blocked on anything?
+	- Need to test these classes with the rest of our classes once everything
+		is completed.

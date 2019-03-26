@@ -1,0 +1,15 @@
+What did I do last time?
+	- Discussed updated CRC card design with group
+	- Changed JShell to fit with new design
+	- Added shell package
+	- Completed draft of Shell.java and CommandRedirectSplitter.java
+
+What do I plan to do now?
+	- Continue working on CommandInitializer
+		- Get command and command construction
+	- Dictionary for command validation to be used with CommandInitializer
+	- Complete honour code for every java file so far
+
+Am I blocked on anything?
+	- Command needs to be completed before Shell and CommandInitializer can be finalized
+	- FileSystem and IoHandler need to be completed for testing

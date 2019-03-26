@@ -1,0 +1,8 @@
+Class name: Man
+Parent class: CommandWithOutput
+Subclasses: None
+
+Responsibilities:
+Print documentation for a Command
+
+Collaborators:

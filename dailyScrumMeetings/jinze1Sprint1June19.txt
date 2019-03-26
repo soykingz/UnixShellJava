@@ -1,0 +1,15 @@
+What did I do last time?
+    - Finallized overall design of this project with other team member.
+    - Removed Overllaped, repeated task in sprintbacklog1.
+    - Reassigned tasks in sprintbacklog1.
+    - Revisited crc cards and commited crc cards
+    - Worked on command validator and redirector design with liangho2,
+      and added crc cards accordingly
+
+What do I plan to do now?
+    - Assist seyedayd with filesystem if needed
+    - test filesystem and test integration of filesystem with other classes
+    - work on IoHandler if possible
+
+Am I blocked on anything?
+    - Needs more communication in the team

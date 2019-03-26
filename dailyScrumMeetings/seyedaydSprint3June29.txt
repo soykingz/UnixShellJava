@@ -1,0 +1,11 @@
+What did I do last time?
+	-added more test cases to test FileSystem, Directory and File class
+	- assisted jinze1 with integrating FileSystem with IoHandler
+
+What do I plan to do now?
+	- create java doc for files, as well google coding style
+	- provide any help on commands left to do, as well communciate with
+		teammates to determine what commands we should each do.
+
+Am I blocked on anything?
+	- no

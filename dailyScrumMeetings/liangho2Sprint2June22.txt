@@ -1,0 +1,14 @@
+What did I do last time?
+	- Completed draft of CommandInitializer.java
+	- Completed draft of dictionary command searching
+	- Updated references in Shell.java
+
+What do I plan to do now?
+	- Preliminary testing of shell package with FS before moving on (working with seyedayd and zinje1)
+	- Further polishing/refactoring of shell package files
+	- Product backlog refactoring
+	- Sprint 2 backlog task completion (after the above)
+
+Am I blocked on anything?
+	- Command parent class and subclasses need to be completed before shell package files can run
+	- FileSystem and IoHandler need to be completed for shell package files to run

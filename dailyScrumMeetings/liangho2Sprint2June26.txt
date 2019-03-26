@@ -1,0 +1,15 @@
+What did I do last time?
+	- Changed and refactored CommandInitializer to work better with current design
+	- Completed skeleton code for Command (to be able to work on my specified subcommands)
+	- Completed echo draft (argument parsing)
+
+What do I plan to do now?
+	- Further commands as specified in sprint backlog
+		- Make sure all files adhere to Java coding style
+	- Additional inter-file testing with group
+		- Work together with other members to ensure command files are unified in design and format
+	- Preparation for demo (function & polish of all files assigned to me)
+
+Am I blocked on anything?
+	- IoHandler files must be completed before Command superclass (and subclasses) can run
+		- JShell and Shell also require IoHandler to run

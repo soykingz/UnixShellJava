@@ -1,0 +1,9 @@
+Class name: Echo
+Parent class: CommandWithOutput
+Subclasses: None
+
+Responsibilities:
+Output the input
+
+Collaborators:
+FileSystem

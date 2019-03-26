@@ -1,0 +1,13 @@
+What did I do last time?
+	- Finished implementing new Design of JFileSystem with FileTree and Node
+	- Overridden toString in my commands, JFileSystem, IoHandler, and commands
+	- Updated Existing commands to work with updated generics and exceptions
+	  version of FileSystem
+	- JUnit tested on JFileSystem, FileTree, Node, IoHandler, Tree, Cat, 
+	  Mkdir, Curl, UrlDownloader
+	- Separated the Recursive Traversing part from Ls -r and Tree
+	- updated command documentations
+
+What do I plan to do now?
+
+Am I blocked on anything?

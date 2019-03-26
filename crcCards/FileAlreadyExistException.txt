@@ -1,0 +1,7 @@
+Class name: FileAlreadyExistException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+to be thrown when trying to add file or make directory to a path
+that already exist a file or directory with the same name

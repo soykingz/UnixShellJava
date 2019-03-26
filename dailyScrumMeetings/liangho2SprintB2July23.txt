@@ -1,0 +1,13 @@
+What did I do last time?
+	- !NUM refactored and complete
+	- All JUnit test files complete
+	- All files under my name refactored
+		- Ls updated
+		- Formatting and polish changes
+	- Wrote report file
+
+What do I plan to do now?
+	N/A (All tasks complete)
+
+Am I blocked on anything?
+	N/A (End of assignment)

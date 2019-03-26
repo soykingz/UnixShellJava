@@ -1,0 +1,9 @@
+What did I do last time?
+    - Redesigned FileSystem
+	- Finish rough design of IoHandler
+What do I plan to do now?
+	- Finish up IoHandler
+	- Integerate shell, IoHandler, FileSystem
+
+Am I blocked on anything?
+	- nothing

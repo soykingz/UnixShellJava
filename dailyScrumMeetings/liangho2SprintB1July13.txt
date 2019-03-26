@@ -1,0 +1,16 @@
+What did I do last time?
+	- Refactored Cd, Ls, Shell, and JShell to catch and handle exceptions
+		- Updated commands to use singleton design filesystem
+	- Updated Ls draft to include recursive requirements
+	- Updated Man to include new documentation
+	- Discussed with jinze1 for an updated design for Shell, commands (using reflection), and JUnit tests
+
+What do I plan to do now?
+	- Update CommandInitializer to work with current reflection design
+	- Refactor Shell to reduce line count
+		- CRC Cards for possible new classes
+	- JUnit and mock files for my files
+	- Continue refactoring commands according to new filesystem design
+
+Am I blocked on anything?
+	- FileSystem and Directory's new designs must be finalized before command refactoring implementation can be tested with them.

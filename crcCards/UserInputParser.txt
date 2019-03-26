@@ -1,0 +1,8 @@
+Class name: UserInputParser
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+Parses and returns user input (string).
+
+Collaborators:

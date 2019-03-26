@@ -1,0 +1,7 @@
+Class name: JIoHandler
+Parent class: JIoHandler
+Subclasses: None
+
+Responsibilities:
+
+Collaborators:

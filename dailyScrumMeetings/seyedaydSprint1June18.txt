@@ -1,0 +1,11 @@
+What did I do last time?
+	-worked on filesystem (design) and the class responsible for the directories and nodes for it to store
+	-discussed with my group members on an agreeable design (CRC cards) 
+
+What do I plan to do now?
+	-finish implementing the actual functionality of the file system
+	-finish the node and directories class to build a chained directory
+
+Am I blocked on anything?
+	-I am not blocked on anything more on what types my teammates are going to
+	pass to the file system functions

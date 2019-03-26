@@ -1,0 +1,6 @@
+Class name: InvalidCommandException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+to be thrown when input command cannot be found in CommandInitializer

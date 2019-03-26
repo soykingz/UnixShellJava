@@ -1,0 +1,9 @@
+Class name: Find
+Parent class: CommandWithOutput
+Subclasses: None
+
+Responsibilities:
+search for a file of a specific type and name in the FileSystem
+
+Collaborators:
+FileSystem

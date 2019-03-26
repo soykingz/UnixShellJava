@@ -1,0 +1,11 @@
+Class name: IoHandler
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+Take command output
+Print command output
+Write/Append command output to file in the FileSystem
+
+Collaborators:
+JFileSystem

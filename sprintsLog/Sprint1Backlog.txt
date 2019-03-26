@@ -1,0 +1,76 @@
+// Sprint 1 Backlog.
+June 15 to June 21
+
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a) User needs to have a shell running with a empty file system when user runs JShell.
+        1. (CRC Cards) Review CRC cards and finalize Design of shell and FileSystem.
+		Assigned to: Everyone
+		Edit: jinze1
+        2. Design the underline data structure of FileSystem
+		Assigned to: jinze1
+		Edit: Assigned to seyedayd
+        3. Implement FileSystem Methods.
+		Assigned to: jinze1
+		Edit: Assigned to seyedayd
+        5. Test FileSystem on its own.
+		Assigned to: jinze1
+		Edit: Assigned to seyedayd
+        6. Create a FileSystem in main method of JShell, and pass it into Shell
+		Assigned to: seyedayd
+	7. Test that the file system works
+		Assigned to:seyedayd
+		Edit: Assigned to jinze1
+
+b) As a user, I need to be able to run a shell that repeatedly prints a prompt and executes my input
+	1. (JShell) Repeatedly prompt the user for input.
+		Assigned to: liangho2
+	2. (JShell) Parse commands and ignore whitespace.
+		Assigned to: liangho2
+	3. (JShell) Call various commands after parsing user input.
+		Assigned to: liangho2
+        Edit, added: 4.(IoHandler) Implement IoHandler that handle input and output of command
+		Assigned to: jinze1
+
+c) As a user, I should be able to exit JShell.
+	1. (JShell) Recognize exit keyword input and call it.
+		Assigned to: liangho2
+
+d) I want error messages to appear and the program not to crash if invalid input is entered
+	1. (JShell) Warn the user with error message if their syntax is incorrect
+		Assigned to: Luca Vezoc
+		Edit: Assigned to: Luca Vezoc, liangho2
+	2. (JShell) Warn the user with error message if their spelling is incorrect
+		Assigned to: Luca Vezoc
+		Edit: Assigned to: Luca Vezoc, liangho2
+	3. (JShell) Make sure the program does not crash on invalid input
+		Assigned to: Luca Vezoc
+		Edit: Assigned to: Luca Vezoc, liangho2
+	4. (Validator) Design/Implement a validator class that checks if a command can be executed
+		Assigned to: Luca Vezoc
+		Edit: This subtask is combined with input parsing; assigned to: liangho2
+Edit:
+Removed e), e) overllaps with task in a)
+e) As a user, I need to be able to create a directory. 
+	1.	(Directory) Implement a linked list class for the file system directories class
+		 Assigned to: seyedayd
+		Edit: This overlapped with a)2
+	2. 	(Validator) Raise any errors to the user if directory already exists
+		 Assigned to: seyedayd
+		Edit: This overlapped with a)3	
+	3. 	(Jshell) Make sure the command works with the file system in place (tests it works)
+		 Assigned to: seyedayd
+		Edit: This overlapped with a)5
+	4.	(Command/mkdir) Create a directory class and link accordingly
+		 Assigned to: seyedayd
+		Edit: This overlapped with a)2
+Edit:
+Removed f), f) overllaps with task in a)
+f)As a user, I want to be able to change the current working directory.
+	1. (Command/cd) Change the location of the current directory node to requested directory from user 
+		Assigned to: seyedayd
+	2. (Validator) Warn the user if the directory doesn't exist
+		Assigned to: seyedayd
+	3. (Command/man CMD) Update the help command to advise the user how to proceed with error (provided help class done later on)
+		Assigned to: seyedayd

@@ -1,0 +1,25 @@
+What did I do last time?
+	- Refactored all my files to fit design adjustments
+		- Refactored commands to fit with filesystem and iohandler changes
+		- Updated CRC cards
+	- Completed !NUM draft
+		- Created JUnit test file for !NUM
+		- Refactored Shell to work better with !NUM
+			- Completed UserInputParser
+			- Updated CommandExecutor
+			- Updated CommandInitializer
+			- Updated UserInputHistory
+	- Added 2B command documentation to Man
+
+What do I plan to do now?
+	- Create remaining JUnit test files for my shell files
+	- Continue refactoring old files further (pending considerable filesystem design changes)
+		- Update mock files if necessary
+		- Refactor ls
+	- Assignment cleanup
+		- Report file
+		- Bonus (possibly)
+		- Any last formatting changes in my files
+
+Am I blocked on anything?
+	- Considerable filesystem design changes must be implemented before I can test my refactored code with them.

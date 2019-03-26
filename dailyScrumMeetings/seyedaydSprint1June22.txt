@@ -1,0 +1,19 @@
+What did I do last time?
+    - Worked on File and FileSystem by implementing the classes based off CRC
+    - Worked on having a directory class that should run as in the methods
+      shouldn't have any errors(to note I wrote the directory basis off of
+      the filesystem so I've somewhat created the basis for the filesystem
+      to run off of).
+
+What do I plan to do now?
+    - help jinze1 if needed to finish FileSystem in 3 days
+    - test that the directory class methods as well as (file)system methods
+      work
+    - I made a mistake in implementing the directory as it overlaps with the
+      FileSystem so if jinze1 who is going to help fix the issues needs help
+      or has any issues I'll be sure to help. As well as the File class not
+      being the parent of the Directory class.
+
+Am I blocked on anything?
+    - I can't know if my classes don't 100% work until we have the FileSystem
+      running as well as the shell being tested when creating the filesystem

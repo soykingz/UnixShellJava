@@ -1,0 +1,48 @@
+// Sprint 1 Backlog.
+July 10 to July 16
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As a user, I need to be able to run a shell that repeatedly prints a prompt and executes my input on a file system. (From 2A)
+	1. Update all of jinze1's previous files with JUnit, mock files, and exceptions.
+		Assigned to: jinze1
+	2. Update all of liangho2's previous files with JUnit, mock files, and exceptions.
+		Assigned to: liangho2
+	3. Refactor all previous files (written by jinze1 and liangho2, respectively) required to work with current design.
+		Assigned to: jinze1, liangho2
+	4. Update CRC Cards (design).
+		Assigned to: jinze1, liangho2
+
+b) As a user, I want to be able to search for a file of a specific type and name in a directory. (From 2A)
+	1. Complete find.
+		Assigned to: seyedayd
+	2. Implement JUnit, mock files, and exceptions for find.
+		Assigned to: seyedayd
+
+c) As a user, I want to save my current working directory to access later. (From 2A)
+	1. Complete pushd using external singleton design for dirStack.
+		Assigned to: vezocluc
+	2. Implement JUnit, mock files, and exceptions for pushd.
+		Assigned to: vezocluc
+
+d) As a user, I want to be able to return to my saved working directory. (From 2A)
+	1. Complete popd using external singleton design for dirStack.
+		Assigned to: vezocluc
+	2. Implement JUnit, mock files, and exceptions for pushd.
+		Assigned to: vezocluc
+
+e) User needs to have a shell running with a empty file system when user runs JShell (From 2A)
+	1. Refactor FileSystem to use generics and exceptions.
+		Assigned to: jinze1
+	2. Update FileSystem to follow singleton design.
+		Assigned to: jinze1
+	3. Refactor relevant files which use FileSystem to match this new design.
+		Assigned to: liangho2
+
+f) As a user, I want to be able to display the contents of multiple files.
+	1. Refactor cat to fit new requirements (including those as described in task a1).
+		Assigned to: jinze1
+
+g) As a user, I want to be able to recursively list directory contents.
+	1. Refactor ls to fit new requirements (including those as described in task a1).
+		Assigned to: liangho2

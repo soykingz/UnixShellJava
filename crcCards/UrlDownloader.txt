@@ -1,0 +1,8 @@
+Class name: UrlDownloader
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+return content of url as a string
+
+Collaborators:

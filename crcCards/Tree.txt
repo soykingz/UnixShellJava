@@ -1,0 +1,9 @@
+Class name: Tree
+Parent class: CommandWithOutput
+Subclasses: None
+
+Responsibilities:
+display the entire file system as a tree
+
+Collaborators:
+FileSystem

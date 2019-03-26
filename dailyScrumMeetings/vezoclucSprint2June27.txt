@@ -1,0 +1,12 @@
+What did I do last time?
+	- Created and finished man class
+	- Worked on and completely majority of Pwd class
+
+What do I plan to do now?
+	- Finish working on Pwd and Ls class
+	- Test the classes
+	- Help teamates to make sure program is ready for demo
+
+Am I blocked on anything?
+	- The command and command subclasses rely on IOHandler to be functioning to work
+

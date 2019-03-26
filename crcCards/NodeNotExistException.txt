@@ -1,0 +1,7 @@
+Class name: NodeNotExistException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+to be thrown when Operations on FileTree is a operation
+on a Node that does not exist in FileTree

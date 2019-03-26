@@ -1,0 +1,11 @@
+class name: CommandExecutor
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+Check if input is valid
+Start command operation
+
+Collaborators:
+Command
+IoHandler

@@ -1,0 +1,9 @@
+Class name: Cd
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+Change the current working directory to another directory in FileSystem
+
+Collaborators:
+FileSystem

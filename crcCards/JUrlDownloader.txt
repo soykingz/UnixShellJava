@@ -1,0 +1,7 @@
+Class name: JUrlDownloader
+Parent class: UrlDownloader
+Subclasses: None
+
+Responsibilities:
+
+Collaborators:

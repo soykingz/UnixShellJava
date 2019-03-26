@@ -1,0 +1,10 @@
+class name: Command
+Parent class: None
+Subclasses: Cd, Mkdir, Pushd, Popd
+
+Responsibilities:
+Execute command
+Send output to IoHandler
+
+Collaborators:
+IoHandler

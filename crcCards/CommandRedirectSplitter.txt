@@ -1,0 +1,9 @@
+class name: CommandRediectSplitter
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+split command into command argument and command redirection
+
+Collaborators:
+RedirectSymbolNotPresentException

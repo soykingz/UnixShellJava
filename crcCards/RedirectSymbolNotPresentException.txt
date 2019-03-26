@@ -1,0 +1,6 @@
+Class name: RedirectSymbolNotPresentException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+to be thrown when a redirect symbol is not found in a given command's arguments

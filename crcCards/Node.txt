@@ -1,0 +1,18 @@
+Class name: Node
+Parent class: 
+Subclasses:
+
+Responsibilities:
+set name of node
+get name of node
+set content of node
+get content of node
+set path of node
+get path of node
+add reference to other node
+get reference to other node
+remove reference to other node
+
+Collaborators:
+NodeNoContentException
+NodeNotExistException

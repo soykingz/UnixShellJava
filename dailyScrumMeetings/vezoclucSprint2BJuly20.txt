@@ -1,0 +1,10 @@
+What did I do last time?
+	- worked on popd
+	- worked on pushd
+	- wrote testfiles for push/pop
+What do I plan to do now?
+	- finish up bug fixes on popd/pushd
+	- finish testfiles for pop/push
+Am I blocked on anything?
+	- waiting for the updated version of filesystem so i can change my
+		function calls for it

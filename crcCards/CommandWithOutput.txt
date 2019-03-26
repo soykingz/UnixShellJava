@@ -1,0 +1,10 @@
+Class name: CommandWithOutput
+Parent class: Command
+Subclasses: Ls, Pwd, Cat, Echo, Find, Tree, History, Man
+
+Responsibilities:
+Execute command
+Send output to IoHandler
+
+Collaborators:
+IoHandler

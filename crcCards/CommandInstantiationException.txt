@@ -1,0 +1,6 @@
+Class name: CommandInstantiationException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+to be thrown when command initialization in CommandInitializer fails

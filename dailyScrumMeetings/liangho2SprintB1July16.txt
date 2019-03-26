@@ -1,0 +1,17 @@
+What did I do last time?
+	- Refactored all my files to fit design adjustments
+		- Refactored Shell
+			- Added CommandExecutor
+		- Added multiple Exceptions for use with my shell files
+		- Refactored commands to fit with filesystem and iohandler changes
+	- Created mock files to test my commands
+		- Created JUnit test files for all my commands
+
+What do I plan to do now?
+	- Create remaining JUnit test files for my shell files
+	- Tasks as outlined in Sprint2B backlog
+		-!number command
+	- Continue refactoring old files further if necessary
+
+Am I blocked on anything?
+	- If any further design changes are implemented in filesystem and/or iohandler, they will have to be completed before I can test my own commands with them.

@@ -1,0 +1,10 @@
+What did I do last time?
+	- Finished up Pwd class
+	- Fixed some errors in Man
+
+What do I plan to do now?
+	- Work on the stack and pop and push methods
+	- Create Javadocs for files
+
+Am I blocked on anything?
+	- No

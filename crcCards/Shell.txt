@@ -1,0 +1,21 @@
+Class name: Shell
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+Repeatedly print prompt
+Read user input or command
+Execute command
+Execute IoHandler with command
+Quit
+
+Collaborators:
+FileSystem
+IoHandler
+Command
+CommandInitializer
+CommandExecutor
+CommandRedirectSplitter
+RedirectValidator
+UserInputHistory
+UserInputParser

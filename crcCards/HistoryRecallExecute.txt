@@ -1,0 +1,11 @@
+Class name: HistoryRecallExecute
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+Recall and run lines of user input from the user's history.
+
+Collaborators:
+CommandInitializer
+CommandExecutor
+UserInputHistory

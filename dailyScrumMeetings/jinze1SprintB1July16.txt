@@ -1,0 +1,18 @@
+What did I do last time?
+	- Finished Exceptions inside FileSystem and Directory
+	- Added CRC cards for Exceptions inside FileSystem
+	- Refactored FileSystem and Directory and File IoHandler using generics
+	- Added Interface of FileSystem and Abstract Class for IoHandler
+
+
+What do I plan to do now?
+	- Add Exceptions in File
+	- Override toString in my commands, FileSystem, Directory, IoHandler
+	- Update Existing commands to work with updated generics and exceptions
+	  version of FileSystem, Directory, File, IoHandler
+	- JUnit test on existing commands and FileSystem, Directory, File, IoHandler
+	- Separate the Recursive Traversing part from Ls -r and Tree
+
+Am I blocked on anything?
+	- first time using generics, some question has to wait until friday 
+	  Abbas' office hour to ask him

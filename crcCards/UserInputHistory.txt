@@ -1,0 +1,9 @@
+Class name: UserInputHistory
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+Save user input
+Recall saved user input
+
+Collaborators:

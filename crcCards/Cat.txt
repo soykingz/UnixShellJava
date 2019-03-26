@@ -1,0 +1,9 @@
+Class name: Cat
+Parent class: CommandWithOutput
+Subclasses: None
+
+Responsibilities:
+get contents of a file in FileSystem
+
+Collaborators:
+FileSystem

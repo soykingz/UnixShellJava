@@ -1,0 +1,9 @@
+Class name: Mv
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+Move a file to a new file path in the FileSystem
+
+Collaborators:
+FileSystem

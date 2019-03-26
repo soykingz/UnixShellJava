@@ -1,0 +1,11 @@
+What did I do last time?
+	- finished what I believe is a working copy of Find
+	- implemented the structure for the test for it
+
+What do I plan to do now?
+	- communicate with teammates with what's left to do for the last sprint
+	- finish any of the new commands assigned
+	- finish any leftover testing needed to be done
+	
+Am I blocked on anything?
+	- n/a

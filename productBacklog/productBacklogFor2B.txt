@@ -1,0 +1,29 @@
+2A Product Backlog:
+
+User needs to have a shell running with a empty file system when user runs JShell                                                DONE
+As a user, I need to be able to run a shell that repeatedly prints a prompt and executes my input on a file system.              DONE
+As a user, I need to be able to see contents of a directory at a given path or the current working directory.                    DONE
+As a user, I need to be able to create a directory.                                                                              DONE
+As a user, I want to be able to change the current working directory.                                                            DONE
+As a user, I want to be able to see any number of recent commands that were executed in the shell.                               DONE
+As a user, I want relevant error messages to be displayed if I give invalid input.                                               DONE
+As a user, I should be able to exit JShell.                                                                                    	 DONE
+As a user, I want to be able to see the current directory I'm working in.                                                        DONE
+As a user, I want to be able to see the contents of any number of files displayed in the shell.                                  DONE
+As a user, I want to be able to overwrite or append to any file.                                                                 DONE
+As a user, I want to be able to have my own input displayed back to me.                                                          DONE
+As a user, I want to be able to seek help for any valid command.                                                                 DONE
+As a user, I want to save my current working directory to access later.                                                          2.5 days
+As a user, I want to be able to return to my saved working directory.                                                            2.5 days
+As a user, I want to be able to display the entire file system as a tree                                                         DONE
+As a user, I want to be able to search for a file of a specific type and name in a directory                                     5 days
+As a user, I want to be able to redirect any command to an output file, except for exit                                          DONE
+
+2B Product Backlog:
+As a user, I want to be able to recursively list directory contents.                                                             3 days
+As a user, I want to be able to move a file from its current path to a new path.                                                 5 days
+As a user, I want to be able to copy a file into another directory.                                                              5 days
+As a user, I want to retrieve a file from a URL and add it to the current directory.                                             6 days
+As a user, I want to directly call and use command from my command history.                                                      3 days
+As a user, I want to be able to find files that contain certain text.                                                            5 days
+As a user, I want to be able to display the contents of multiple files.                                                          2 days	

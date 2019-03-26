@@ -1,0 +1,14 @@
+What did I do last time?
+	- Integrated FileSystem with IoHandler with commands
+	- Worked on design of basics commands, Cd, Echo, Ls
+	- Finished cat, mkdir.
+	- tested Jshell with basic commands mentioned above
+
+What do I plan to do now?
+    - Finish push pop, tree
+    - add necessary exceptions
+    - more final testing and fixing on whole Jshell
+	- Check Google coding style on all of my files
+
+Am I blocked on anything?
+	N/A

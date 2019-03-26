@@ -1,0 +1,11 @@
+What did I do last time?
+	- Completed Cat, Mkdir, Tree
+	- optimized filesystem design
+	- Helped team mates with some of their tasks
+
+What do I plan to do now?
+	- pushd and popd
+
+Am I blocked on anything?
+	- one of our team member did a uncompleted pushd and popd and 
+	doesnt show up after that

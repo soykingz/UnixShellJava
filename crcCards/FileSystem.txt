@@ -1,0 +1,17 @@
+Class name: FileSystem
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+Insert/create file to a path
+Change current working directory
+Get path of current working directory
+Retrieve a file
+Remove a file from file system
+Display every file in this file system as a tree
+
+Collaborators:
+FileTree
+FileNotExistException
+InvalidPathException
+FileAlreadyExistException

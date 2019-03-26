@@ -1,0 +1,9 @@
+Class name: Cp
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+Copies a file to a new file path in the FileSystem
+
+Collaborators:
+FileSystem

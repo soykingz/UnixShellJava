@@ -1,0 +1,19 @@
+What did I do last time?
+	- Refactored several files for completion preparation
+		- Slight changes to references and code
+		- Removed extraneous imports
+	- Completed History command
+		- Completed UserInputHistory (for use with History)
+		- Changed relevant files to include History usage
+	- Completed all remaining tasks assigned to me
+		- Javadoc for every file under my jurisdiction
+		- Final formatting adjustments to fall in line with Google coding style
+		- Honour code at the top of all of my files
+		- Worked with jinze1 to make sure all my finished code is completely functional in regards to shell operation
+	- Helped team mates with some of their tasks
+
+What do I plan to do now?
+	N/A (All assigned tasks complete)
+
+Am I blocked on anything?
+	N/A

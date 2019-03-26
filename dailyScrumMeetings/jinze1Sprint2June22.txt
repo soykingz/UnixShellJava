@@ -1,0 +1,11 @@
+What did I do last time?
+    - Worked on File and FileSystem design and crc cards
+    - Worked on IoHandler design and crc cards
+
+What do I plan to do now?
+    - Finish FileSystem in 3 days
+    - Provide assist to Liangho2 on how to use FileSystem and assist him To make command that works on FileSystem
+    - work on crc if design changes needed
+
+Am I blocked on anything?
+    - Still needs more communication in the team

@@ -1,0 +1,9 @@
+Class name: Pwd
+Parent class: CommandWithOutput
+Subclasses: None
+
+Responsibilities:
+get full path of current working directory in FileSystem
+
+Collaborators:
+FileSystem

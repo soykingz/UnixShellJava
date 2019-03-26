@@ -1,0 +1,8 @@
+What did I do last time?
+	- Worked on Pushd and Popd commands
+	- Make sure all code was commented properly
+	- verified google coding style
+
+What do I plan to do now
+	- Finish pop and push
+	

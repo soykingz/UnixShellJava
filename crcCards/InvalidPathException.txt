@@ -1,0 +1,7 @@
+Class name: InvalidPathException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+to be thrown when Operations on FileSystem is a operation
+on a Path that does not Exist in the FileSystem

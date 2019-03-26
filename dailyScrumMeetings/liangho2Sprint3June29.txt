@@ -1,0 +1,14 @@
+What did I do last time?
+	- Completed Command, Cd, Echo, Ls, and Pwd
+		- Ls and Pwd refactored to fit design requirements
+	- Refactored shell files and JShell to work better with our design
+		- Worked together with jinze1 to confirm that everything meshes functionally
+		- Made changes to relevant group files to ensure functionality
+
+What do I plan to do now?
+	- Completion of last commands assigned to me as per sprint 3 backlog
+	- Check Google coding style on all of my files
+		- Javadoc for final version of completed files
+
+Am I blocked on anything?
+	N/A

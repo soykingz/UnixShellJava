@@ -1,0 +1,9 @@
+Class name: Ls
+Parent class: CommandWithOutput
+Subclasses: None
+
+Responsibilities:
+Print names of files and directories in the current directory
+
+Collaborators:
+FileSystem

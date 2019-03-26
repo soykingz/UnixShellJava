@@ -1,0 +1,45 @@
+// Sprint 3 Backlog
+June 29 to July 2
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As a user, I want to be able to seek help for any valid command.
+	1. Complete implementation of man. (From Sprint 2)
+		Assigned to: liangho2
+
+b) As a user, I want to be able to see the current directory I'm working in.
+	1. Complete implementation of pwd. (From Sprint 2)
+		Assigned to: liangho2
+
+c) As a user, I need to be able to see contents of a directory at a given path or the current working directory.
+	1. Complete implementation of ls. (From Sprint 2)
+		Assigned to: liangho2
+
+d) As a user, I need to be able to create a directory. 
+	1. Implement mkdir. (From Sprint 2)
+	Assigned to: jinze1
+
+e) As a user, I want to be able to see the contents of any number of files displayed in the shell.
+	1. Implement cat.
+	Assigned to: jinze1
+
+f) As a user, I want to be able to see any number of recent commands that were executed in the shell.
+	1. Implement history.
+	Assigned to: liangho2
+
+g) As a user, I want to save my current working directory to access later.
+	1. Implement stack class
+	2. Create Pushd command
+	Assigned to: vezocluc, jinze1
+
+h) As a user, I want to be able to return to my saved working directory.
+	1. Implement stack class
+	2. Create Popd command
+	Assigned to: vezocluc, jinze1
+
+i) As a user, I want to be able to search for a file of a specific type and name in a directory (or multiple directories).
+	Assigned to: seyedayd
+	
+j) As a user, I want to be able to display the entire file system as a tree
+    1. Implement Tree command
+    Assigned to: jinze1

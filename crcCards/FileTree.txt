@@ -1,0 +1,20 @@
+Class name: FileTree
+Parent class: 
+Subclasses:
+
+Responsibilities:
+Add Node at path
+Get Node at path
+Remove Node at path
+Insert/create leaf to a path
+Change current working node
+Get path of current working node
+Remove a node from tree
+display every node in this file system as a tree
+
+
+Collaborators:
+NodeAlreadyExistException
+NodeNotExistException
+NodeNoContentException
+InvalidPathException

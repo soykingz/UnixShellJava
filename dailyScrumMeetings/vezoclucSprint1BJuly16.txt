@@ -1,0 +1,11 @@
+What did I do last time?
+	- finished and implemented bug fixes in pop/push
+	- implemented test files for pop/push
+
+What do I plan to do now?
+	- communicate with teammates about what there is left to do
+	- finish coding any leftover commands
+	- finish testing files
+
+Am I blocked on anything?
+	- N/A

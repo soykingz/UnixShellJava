@@ -1,0 +1,12 @@
+What did I do last time?
+	- worked on trying to finish find from previous sprint
+	- laid out the frame work to have it done by july 16th
+	- joted down different test cases on a piece of paper
+
+What do I plan to do now?
+	- have a wokring find command
+	- test cases that fully test the fully functionality of find
+	- any new commands introduced if find is done early
+	
+Am I blocked on anything?
+	- make directory might be buggy and might not allow me to easly test find

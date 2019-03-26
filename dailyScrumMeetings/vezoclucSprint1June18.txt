@@ -1,0 +1,10 @@
+What did I do last time?
+	-worked on validator class
+	-added isValid function and formatParam function
+
+What do I plan to do now?
+	-consult with teammates on design of validator class
+	-finish up validator class
+
+Am I blocked on anything?
+	-Need FileSystem and Command to be implemented before I can test my code

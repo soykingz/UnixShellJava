@@ -1,0 +1,6 @@
+Class name: NodeNoContentException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+to be thrown when try to get content from a node without content

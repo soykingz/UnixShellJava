@@ -1,0 +1,9 @@
+What did I do last time?
+	-worked on CommandInitializer class
+	-created exceptions to handle syntax errors
+
+What do I plan to do now?
+	-Work on command classes to give the shell it's proper functionality
+
+Am I blocked on anything?
+	-No

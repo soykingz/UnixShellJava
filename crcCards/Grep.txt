@@ -1,0 +1,9 @@
+Class name: Curl
+Parent class: CommandWithOutput
+Subclasses: None
+
+Responsibilities:
+Use regex to find lines in files that match a given expression.
+
+Collaborators:
+FileSystem
